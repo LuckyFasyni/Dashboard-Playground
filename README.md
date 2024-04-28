@@ -1,4 +1,4 @@
-# Google-Looker-Studio-Dashboard-Playground
+# Dashboard-Playground
 A collection of my dashboarding playground from Google Looker Studio
 
 Link to the original report
