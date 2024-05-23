@@ -3,12 +3,12 @@ A collection of my dashboarding playground from Google Looker Studio and Tableau
 
 Click this link below to the original report
 
-* Looker Studio
+## Looker Studio
   
 1. My Store Report Dashboard: https://lookerstudio.google.com/reporting/a780b744-103f-41bb-9292-8101ac5c2de4
 2. Retail Order Performance Dashboard: https://lookerstudio.google.com/reporting/228b15bd-5a15-483e-87b6-492a98942ca5
 
-* Tableau
+## Tableau
 
 Profile: https://public.tableau.com/app/profile/achmad.luckyta.fasyni/vizzes
 
